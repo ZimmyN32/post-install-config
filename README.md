@@ -34,33 +34,47 @@ Configure Roles (for grouping permissions):
   - Admin Panel -> Agents -> Roles
     - Supreme Admin
 
+<img src="https://i.imgur.com/Lw3D6A0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
   - Admin Panel -> Agents -> Departments
     - SysAdmins
+
+<img src="https://i.imgur.com/LP2Mzz4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure Teams
   - Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
     - Online Banking
 
+<img src="https://i.imgur.com/hdTe1rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Allow anyone to create tickets
   - Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
     - Registration Required: Require registration and login to create tickets 
+
+<img src="https://i.imgur.com/gwSlbao.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure Agents (workers)
   - Admin Panel -> Agents -> Add New
     - Jane (Dept: SysAdmins)
     - John (Dept: Support)
 
+<img src="https://i.imgur.com/STpBSx2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Configure Users (customers)
   - Agent Panel -> Users -> Add New
     - Karen
     - Ken
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure SLA
   - Admin Panel -> Manage -> SLA
     - Sev-A (Grace Period: 1 hour, Schedule: 24/7)
     - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
     - Sev-C (Grace Period: 8 hours, Business Hours)
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure Help Topics (For when users create a ticket)
   - Admin Panel -> Manage -> Help Topics
@@ -70,25 +84,4 @@ Configure Help Topics (For when users create a ticket)
     - Password Reset
     - Other
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://i.imgur.com/nIWW6qi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
