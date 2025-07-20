@@ -66,7 +66,7 @@ Configure Users (customers)
     - Karen
     - Ken
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/562UH21.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure SLA
   - Admin Panel -> Manage -> SLA
@@ -74,7 +74,7 @@ Configure SLA
     - Sev-B (Grace Period: 4 hours, Schedule: 24/7)
     - Sev-C (Grace Period: 8 hours, Business Hours)
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OjCqX0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Configure Help Topics (For when users create a ticket)
   - Admin Panel -> Manage -> Help Topics
